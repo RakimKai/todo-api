@@ -19,7 +19,7 @@ Welcome to the Todo Items API. This is a robust backend service built with C# us
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YourUsername/todo-items-api.git
+   git clone https://github.com/RakimKai/todo-items-api.git
    ```
 
 2. Open the solution (`TodoItemsAPI.sln`) in Visual Studio.
